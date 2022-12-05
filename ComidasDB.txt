@@ -1,0 +1,18 @@
+Lentejas; Lentejas, Chorizo, Tomate, Pimiento, Cebolla, Ajo, Pimenton, Comino, Aceite, Sal
+Filete empanado y patatas fritas; Patatas,Cinta de lomo, Pan rallado, Huevos, Sal, Aceite
+Tortilla; Patatas, Huevos, Sal, Aceite
+Macarrones con carne; Macarrones, Tomate frito, Sal, Ajo en polvo, Carne picada, Aceite
+Patatas con chocos; Patatas, sepia, Aceite, Sal, Cebolla, Pimiento, Ajo
+Puchero; Cuartos de pollo, Hueso blanco, Taco jamón, Cebolla, Patatas, Zanahoria, Apio
+Macarrones carbonara; Macarrones, Sal, Bacon, Pimienta, Queso rallado, Leche evaporada, Nueces, Aceite, Mantequilla
+Ambrosia con carne a la plancha; Atun, Huevos, Mayonesa, Carne, Aceite, Sal
+Solomillo con salsa(MAMA); Solomillo, Aceite, Sal, Harina, Cebolla, Pimienta
+Cocido; Garbanzos, Chicharos, Acelgas, Patatas, Sal, Pimenton, Aceite, Carne, Tocino
+Patatas guisadas; Patatas, Carne, Aceite, Pimiento verde, Tomate, Cebolla, Sal
+Albondigas; Carne picada, Sal, Cebolla, Huevos, Ajo, Pan rallado
+Pescado con patatas; Merluza, Patatas, Aceite, Sal
+Arroz con fumet(MAMA); Arroz, Fumet, Sal, Gambas, Tomate triturado, Pimiento rojo, Ajo, Cebolla
+Ensaladilla y carne a la plancha; Atun, Huevos, Mayonesa, Carne, Aceite, Sal
+Arroz con pollo; Arroz, Pollo, Sal, Aceite, Tomate triturado, Cebolla, Ajo
+Croquetas; Pan rallado, Huevos, Leche, Aceite, Ajo, Cebolla, Carne de puchero, Harina
+Pollo tikamasala; Tomate, Pimiento rojo, Pimiento verde, Cebolla, Ajo, Yogour, Curri, Tikamasala, Pollo

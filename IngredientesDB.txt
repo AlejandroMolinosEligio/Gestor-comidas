@@ -1,0 +1,52 @@
+Sepia,NULL,BAD,NO,NULL
+Pollo,"2022-12-11",OK,SI,NULL
+Aceite,NULL,OK,SI,NULL
+Pimenton,NULL,OK,SI,NULL
+Huevos,NULL,OK,SI,12
+Leche,NULL,OK,SI,4
+Patatas,NULL,OK,SI,20
+Mayonesa,NULL,OK,SI,NULL
+Ajo en polvo,NULL,OK,SI,NULL
+Cebolla,NULL,OK,SI,5
+Macarrones,NULL,OK,SI,2
+Ajo,NULL,OK,SI,5
+Garbanzos,NULL,OK,SI,NULL
+Arroz,NULL,OK,SI,3
+Taco jamón,NULL,BAD,NO,NULL
+Sal,NULL,OK,SI,NULL
+Chicharos,NULL,OK,SI,NULL
+Tikamasala,NULL,OK,SI,NULL
+Atun,NULL,OK,SI,12
+Fumet,NULL,OK,SI,NULL
+Pan rallado,NULL,OK,SI,NULL
+Cinta de lomo,"2022-12-19",OK,SI,2
+Tomate triturado,NULL,OK,SI,NULL
+Comino,NULL,OK,SI,NULL
+Hueso blanco,NULL,BAD,NO,NULL
+Zanahoria,NULL,OK,SI,14
+Lentejas,NULL,OK,SI,NULL
+Cuartos de pollo,NULL,BAD,NO,NULL
+Yogour,NULL,OK,SI,NULL
+Tomate,NULL,OK,SI,8
+Curri,NULL,OK,SI,NULL
+Chorizo,"2023-01-03",OK,SI,NULL
+Pimiento verde,NULL,OK,SI,5
+Pimiento rojo,NULL,OK,SI,2
+Carne picada,NULL,BAD,NO,NULL
+Pimiento,NULL,OK,SI,7
+Carne,"2022-12-21",OK,SI,NULL
+Nueces,NULL,OK,SI,1
+Merluza,NULL,OK,SI,NULL
+Gambas,NULL,OK,SI,2
+Solomillo,NULL,BAD,NO,NULL
+Leche evaporada,NULL,OK,SI,2
+Acelgas,NULL,BAD,NO,NULL
+Queso rallado,NULL,OK,SI,1
+Bacon,NULL,OK,SI,2
+Harina,NULL,OK,SI,NULL
+Pimienta,NULL,OK,SI,NULL
+Tomate frito,NULL,OK,SI,3
+Carne de puchero,NULL,BAD,NO,NULL
+Apio,NULL,OK,SI,NULL
+Tocino,NULL,OK,SI,NULL
+Mantequilla,NULL,OK,SI,1
